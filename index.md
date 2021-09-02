@@ -1,3 +1,6 @@
 # Param Patel's First CS193 Homework
 
-There's not a lot going on this page right now. Hopefully the heading is right though.
+- The instructors are really chill.
+- It is a no-judgement space.
+- I find myself less stressed than any other normal CS class.
+- It's fun!
